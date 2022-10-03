@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
-title = "Tella"
-author = "username"
+title = "CRPL Lab Site"
+author = "CRPL Web Team"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
