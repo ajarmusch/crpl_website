@@ -4,7 +4,7 @@ author = "CRPL Web Team"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
-theme = "tella"
+theme = "crpl_theme"
 enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.

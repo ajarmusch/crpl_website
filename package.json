@@ -1,16 +1,14 @@
 {
-  "name": "tella",
+  "name": "crpl_website",
   "version": "0.0.1",
-  "description": "Simple, Light, Responsive",
+  "description": "The redefined look and feel for the CRPL site",
   "main": "index.js",
-  "repository": "https://github.com/opera7133/tella",
-  "author": "wamo <ainznino@pm.me>",
-  "license": "MIT",
+  "author": "CRPL Web Team",
   "scripts": {
     "start": "concurrently npm:watch:*",
-    "watch:tw": "tailwindcss -i ./themes/tella/assets/css/main.css -o ./themes/tella/assets/css/style.css --watch",
+    "watch:tw": "tailwindcss -i ./themes/crpl_theme/assets/css/main.css -o ./themes/crpl_theme/assets/css/style.css --watch",
     "watch:hugo": "hugo server",
-    "build": "tailwindcss -i ./themes/tella/assets/css/main.css -o ./themes/tella/assets/css/style.css && hugo --minify"
+    "build": "tailwindcss -i ./themes/crpl_theme/assets/css/main.css -o ./themes/crpl_theme/assets/css/style.css && hugo --minify"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.4",
