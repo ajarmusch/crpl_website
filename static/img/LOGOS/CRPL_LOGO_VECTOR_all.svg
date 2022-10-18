@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="CRPL_LOGO_VECTOR_all.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective1170" />
+    <filter
+       y="-0.25"
+       height="1.5"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB;"
+       id="filter949">
+      <feGaussianBlur
+         stdDeviation="1.5"
+         result="result6"
+         id="feGaussianBlur939" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite941" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite943" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix945" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend947" />
+    </filter>
+    <filter
+       y="-0.25"
+       height="1.5"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB;"
+       id="filter961">
+      <feGaussianBlur
+         stdDeviation="1.5"
+         result="result6"
+         id="feGaussianBlur951" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite953" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite955" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix957" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend959" />
+    </filter>
+    <filter
+       y="-0.25"
+       height="1.5"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB;"
+       id="filter973">
+      <feGaussianBlur
+         stdDeviation="1.5"
+         result="result6"
+         id="feGaussianBlur963" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite965" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite967" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix969" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend971" />
+    </filter>
+    <filter
+       y="-0.25"
+       height="1.5"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB;"
+       id="filter985">
+      <feGaussianBlur
+         stdDeviation="1.5"
+         result="result6"
+         id="feGaussianBlur975" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite977" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite979" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix981" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend983" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2836">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood2826" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2828" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur2830" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset2832" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2834" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2848">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood2838" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2840" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur2842" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset2844" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2846" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2860">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood2850" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2852" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur2854" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset2856" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2858" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2872">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood2862" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2864" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur2866" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset2868" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2870" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3183">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3173" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3175" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur3177" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset3179" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3181" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3195">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3185" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3187" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur3189" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset3191" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3193" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3207">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3197" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3199" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur3201" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset3203" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3205" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3219">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3209" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3211" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur3213" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset3215" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3217" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="1083.6549"
+     inkscape:cy="884.29918"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4694"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1286"
+     inkscape:window-height="717"
+     inkscape:window-x="47"
+     inkscape:window-y="10"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:none">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.4586111;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1192"
+       width="224.89583"
+       height="106.96725"
+       x="-4.1577382"
+       y="-108.19048"
+       rx="4.2333331"
+       ry="4.2333331" />
+    <rect
+       ry="3.9428451"
+       rx="4.2334404"
+       y="100.61367"
+       x="-4.5385594"
+       height="99.627243"
+       width="224.90152"
+       id="rect3244"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.44260237;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g4694">
+      <path
+         id="rect72"
+         d="m 33.967951,1.4426566 c -1.082119,0 -2.163921,0.4146762 -2.993099,1.2438512 L 14.492655,19.168188 c -1.658354,1.658355 -1.658354,4.328361 0,5.986716 l 16.482197,16.482198 c 0.228825,0.228824 0.47797,0.422915 0.740008,0.588594 L 31.62081,28.486482 a 6.8070801,6.8070801 0 0 1 -4.939234,-6.539651 6.8070801,6.8070801 0 0 1 6.807337,-6.807337 6.8070801,6.8070801 0 0 1 6.806819,6.807337 6.8070801,6.8070801 0 0 1 -0.492993,2.528528 l 7.25537,7.064684 6.385139,-6.385139 c 1.658356,-1.658355 1.658356,-4.328361 0,-5.986716 L 36.961569,2.6865078 C 36.132391,1.8573328 35.050073,1.4426566 33.967951,1.4426566 Z m 3.107304,26.2846984 a 6.8070801,6.8070801 0 0 1 -1.221113,0.597379 l 0.0956,14.061676 c 0.363188,-0.193273 0.705067,-0.442551 1.011825,-0.749308 l 7.102924,-7.102928 z"
+         style="fill:#00917c;fill-opacity:1;stroke:none;stroke-width:0.28024408"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect96"
+         d="m 36.049478,56.991203 0.09354,13.806392 a 6.8070801,6.8070801 0 0 1 1.269688,0.649055 l 6.815089,-6.498828 -7.266222,-7.266223 c -0.278175,-0.278175 -0.5865,-0.505608 -0.912091,-0.690396 z m -4.233333,0.04186 c -0.299175,0.177625 -0.583401,0.390647 -0.841293,0.648539 L 14.492655,74.163796 c -1.658354,1.658356 -1.658354,4.328361 0,5.986717 l 16.482197,16.482189 c 1.658356,1.658351 4.328361,1.658351 5.986717,0 L 53.443247,80.150513 c 1.658356,-1.658356 1.658356,-4.328361 0,-5.986717 l -6.221325,-6.221841 -7.163387,6.831108 a 6.8070801,6.8070801 0 0 1 0.426331,2.357995 6.8070801,6.8070801 0 0 1 -6.807335,6.807335 6.8070801,6.8070801 0 0 1 -6.806821,-6.807335 6.8070801,6.8070801 0 0 1 5.037936,-6.570141 z"
+         style="fill:#e28b19;fill-opacity:1;stroke:none;stroke-width:0.28024408"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect118"
+         d="m 62.505226,28.845633 c -1.082119,0 -2.164437,0.414676 -2.993614,1.243853 l -6.879167,6.879167 6.872449,6.692614 h 5.16e-4 a 6.8070801,6.8070801 0 0 1 3.087669,-0.740524 6.8070801,6.8070801 0 0 1 6.806819,6.807338 6.8070801,6.8070801 0 0 1 -6.806819,6.806819 6.8070801,6.8070801 0 0 1 -2.780194,-0.599964 l -6.862112,6.544302 6.560839,6.560841 c 1.658355,1.658353 4.328877,1.658353 5.987232,0 L 81.980525,52.558398 c 1.658353,-1.658353 1.658353,-4.328361 0,-5.986714 L 65.498844,30.089486 c -0.829178,-0.829177 -1.911496,-1.243853 -2.993618,-1.243853 z m -12.866396,11.117151 -6.6089,6.6089 c -1.658353,1.658353 -1.658353,4.328361 0,5.986714 l 6.926194,6.926193 6.719485,-6.408396 a 6.8070801,6.8070801 0 0 1 -0.889868,-3.348114 6.8070801,6.8070801 0 0 1 0.735873,-3.06183 z"
+         style="fill:#009bdb;fill-opacity:1;stroke:none;stroke-width:0.28024408"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="scale(0.99894112,1.00106)"
+         id="text130"
+         y="74.207726"
+         x="90.680023"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.0848732px;line-height:1.25;font-family:helvetica;-inkscape-font-specification:helvetica;letter-spacing:0px;word-spacing:0px;fill:#00917c;fill-opacity:1;stroke:none;stroke-width:1.02712202"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:helvetica;-inkscape-font-specification:helvetica;fill:#00917c;fill-opacity:1;stroke-width:1.02712202"
+           y="74.207726"
+           x="90.680023"
+           id="tspan128"
+           sodipodi:role="line">CRPL</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.28024408"
+         d="m 33.36319,102.4379 c -1.082119,0 -2.163921,0.41467 -2.993099,1.24385 l -16.482197,16.48168 c -1.658354,1.65836 -1.658354,4.32836 0,5.98672 l 16.482197,16.48219 c 0.228825,0.22883 0.47797,0.42292 0.740008,0.5886 l -0.09405,-13.73922 a 6.8070801,6.8070801 0 0 1 -4.939234,-6.53965 6.8070801,6.8070801 0 0 1 6.807337,-6.80733 6.8070801,6.8070801 0 0 1 6.806819,6.80733 6.8070801,6.8070801 0 0 1 -0.492993,2.52853 l 7.25537,7.06469 6.385139,-6.38514 c 1.658356,-1.65836 1.658356,-4.32836 0,-5.98672 L 36.356808,103.68175 C 35.52763,102.85257 34.445312,102.4379 33.36319,102.4379 Z m 3.107304,26.2847 a 6.8070801,6.8070801 0 0 1 -1.221113,0.59738 l 0.0956,14.06167 c 0.363188,-0.19327 0.705067,-0.44255 1.011825,-0.74931 l 7.102924,-7.10292 z"
+         id="path842"
+         inkscape:export-xdpi="95.540001"
+         inkscape:export-ydpi="95.540001"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/LogoWhite.png" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.28024408"
+         d="m 35.444717,157.98645 0.09354,13.80639 a 6.8070801,6.8070801 0 0 1 1.269688,0.64905 l 6.815089,-6.49883 -7.266222,-7.26622 c -0.278175,-0.27817 -0.5865,-0.50561 -0.912091,-0.69039 z m -4.233333,0.0419 c -0.299175,0.17762 -0.583401,0.39064 -0.841293,0.64853 l -16.482197,16.4822 c -1.658354,1.65835 -1.658354,4.32836 0,5.98672 l 16.482197,16.48219 c 1.658356,1.65836 4.328361,1.65836 5.986717,0 l 16.481678,-16.48223 c 1.658356,-1.65836 1.658356,-4.32837 0,-5.98672 l -6.221325,-6.22184 -7.163387,6.83111 a 6.8070801,6.8070801 0 0 1 0.426331,2.35799 6.8070801,6.8070801 0 0 1 -6.807335,6.80734 6.8070801,6.8070801 0 0 1 -6.806821,-6.80734 6.8070801,6.8070801 0 0 1 5.037936,-6.57014 z"
+         id="path844"
+         inkscape:export-xdpi="95.540001"
+         inkscape:export-ydpi="95.540001"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/LogoWhite.png" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.28024408"
+         d="m 61.900465,129.84088 c -1.082119,0 -2.164437,0.41467 -2.993614,1.24385 l -6.879167,6.87917 6.872449,6.69261 h 5.16e-4 a 6.8070801,6.8070801 0 0 1 3.087669,-0.74052 6.8070801,6.8070801 0 0 1 6.806819,6.80733 6.8070801,6.8070801 0 0 1 -6.806819,6.80682 6.8070801,6.8070801 0 0 1 -2.780194,-0.59996 l -6.862112,6.5443 6.560839,6.56084 c 1.658355,1.65835 4.328877,1.65835 5.987232,0 l 16.481681,-16.48168 c 1.658353,-1.65835 1.658353,-4.32836 0,-5.98671 l -16.481681,-16.4822 c -0.829178,-0.82918 -1.911496,-1.24385 -2.993618,-1.24385 z m -12.866396,11.11715 -6.6089,6.6089 c -1.658353,1.65835 -1.658353,4.32836 0,5.98671 l 6.926194,6.92619 6.719485,-6.40839 a 6.8070801,6.8070801 0 0 1 -0.889868,-3.34812 6.8070801,6.8070801 0 0 1 0.735873,-3.06183 z"
+         id="path846"
+         inkscape:export-xdpi="95.540001"
+         inkscape:export-ydpi="95.540001"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/LogoWhite.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.0848732px;line-height:1.25;font-family:helvetica;-inkscape-font-specification:helvetica;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02712202"
+         x="90.074615"
+         y="175.09601"
+         id="text850"
+         transform="scale(0.99894112,1.00106)"
+         inkscape:export-xdpi="95.540001"
+         inkscape:export-ydpi="95.540001"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/LogoWhite.png"><tspan
+           sodipodi:role="line"
+           id="tspan848"
+           x="90.074615"
+           y="175.09601"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:helvetica;-inkscape-font-specification:helvetica;fill:#ffffff;fill-opacity:1;stroke-width:1.02712202">CRPL</tspan></text>
+      <path
+         id="path852"
+         d="m 33.741166,201.84563 c -1.082119,0 -2.163921,0.41467 -2.993099,1.24385 L 14.26587,219.57116 c -1.658354,1.65836 -1.658354,4.32836 0,5.98672 l 16.482197,16.48219 c 0.228825,0.22883 0.47797,0.42292 0.740008,0.5886 l -0.09405,-13.73922 a 6.8070801,6.8070801 0 0 1 -4.939234,-6.53965 6.8070801,6.8070801 0 0 1 6.807337,-6.80733 6.8070801,6.8070801 0 0 1 6.806819,6.80733 6.8070801,6.8070801 0 0 1 -0.492993,2.52853 l 7.25537,7.06469 6.385139,-6.38514 c 1.658356,-1.65836 1.658356,-4.32836 0,-5.98672 L 36.734784,203.08948 c -0.829178,-0.82918 -1.911496,-1.24385 -2.993618,-1.24385 z m 3.107304,26.2847 a 6.8070801,6.8070801 0 0 1 -1.221113,0.59738 l 0.0956,14.06167 c 0.363188,-0.19327 0.705067,-0.44255 1.011825,-0.74931 l 7.102924,-7.10292 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28024408"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/LogoBlack.png"
+         inkscape:export-xdpi="95.611641"
+         inkscape:export-ydpi="95.611641" />
+      <path
+         id="path854"
+         d="m 35.822693,257.39418 0.09354,13.80639 a 6.8070801,6.8070801 0 0 1 1.269688,0.64905 l 6.815089,-6.49883 -7.266222,-7.26622 c -0.278175,-0.27817 -0.5865,-0.50561 -0.912091,-0.69039 z m -4.233333,0.0419 c -0.299175,0.17762 -0.583401,0.39064 -0.841293,0.64853 l -16.482197,16.4822 c -1.658354,1.65835 -1.658354,4.32836 0,5.98672 l 16.482197,16.48219 c 1.658356,1.65836 4.328361,1.65836 5.986717,0 l 16.481678,-16.48223 c 1.658356,-1.65836 1.658356,-4.32837 0,-5.98672 l -6.221325,-6.22184 -7.163387,6.83111 a 6.8070801,6.8070801 0 0 1 0.426331,2.35799 6.8070801,6.8070801 0 0 1 -6.807335,6.80734 6.8070801,6.8070801 0 0 1 -6.806821,-6.80734 6.8070801,6.8070801 0 0 1 5.037936,-6.57014 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28024408"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/LogoBlack.png"
+         inkscape:export-xdpi="95.611641"
+         inkscape:export-ydpi="95.611641" />
+      <path
+         id="path856"
+         d="m 62.278441,229.24861 c -1.082119,0 -2.164437,0.41467 -2.993614,1.24385 l -6.879167,6.87917 6.872449,6.69261 h 5.16e-4 a 6.8070801,6.8070801 0 0 1 3.087669,-0.74052 6.8070801,6.8070801 0 0 1 6.806819,6.80733 6.8070801,6.8070801 0 0 1 -6.806819,6.80682 6.8070801,6.8070801 0 0 1 -2.780194,-0.59996 l -6.862112,6.5443 6.560839,6.56084 c 1.658355,1.65835 4.328877,1.65835 5.987232,0 L 81.75374,252.96137 c 1.658353,-1.65835 1.658353,-4.32836 0,-5.98671 l -16.481681,-16.4822 c -0.829178,-0.82918 -1.911496,-1.24385 -2.993618,-1.24385 z m -12.866396,11.11715 -6.6089,6.6089 c -1.658353,1.65835 -1.658353,4.32836 0,5.98671 l 6.926194,6.92619 6.719485,-6.40839 a 6.8070801,6.8070801 0 0 1 -0.889868,-3.34812 6.8070801,6.8070801 0 0 1 0.735873,-3.06183 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28024408"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/LogoBlack.png"
+         inkscape:export-xdpi="95.611641"
+         inkscape:export-ydpi="95.611641" />
+      <text
+         transform="scale(0.99894112,1.00106)"
+         id="text860"
+         y="274.39847"
+         x="90.452995"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.0848732px;line-height:1.25;font-family:helvetica;-inkscape-font-specification:helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02712202"
+         xml:space="preserve"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/LogoBlack.png"
+         inkscape:export-xdpi="95.611641"
+         inkscape:export-ydpi="95.611641"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:helvetica;-inkscape-font-specification:helvetica;fill:#000000;fill-opacity:1;stroke-width:1.02712202"
+           y="274.39847"
+           x="90.452995"
+           id="tspan858"
+           sodipodi:role="line">CRPL</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#00917c;fill-opacity:1;stroke:none;stroke-width:0.28024408;filter:url(#filter985)"
+         d="m 33.967951,-213.62579 c -1.082119,0 -2.163921,0.41467 -2.993099,1.24385 l -16.482197,16.48168 c -1.658354,1.65835 -1.658354,4.32836 0,5.98671 l 16.482197,16.4822 c 0.228825,0.22882 0.47797,0.42291 0.740008,0.58859 l -0.09405,-13.73921 a 6.8070801,6.8070801 0 0 1 -4.939234,-6.53965 6.8070801,6.8070801 0 0 1 6.807337,-6.80734 6.8070801,6.8070801 0 0 1 6.806819,6.80734 6.8070801,6.8070801 0 0 1 -0.492993,2.52853 l 7.25537,7.06468 6.385139,-6.38514 c 1.658356,-1.65835 1.658356,-4.32836 0,-5.98671 l -16.481679,-16.48168 c -0.829178,-0.82918 -1.911496,-1.24385 -2.993618,-1.24385 z m 3.107304,26.28469 a 6.8070801,6.8070801 0 0 1 -1.221113,0.59738 l 0.0956,14.06168 c 0.363188,-0.19328 0.705067,-0.44255 1.011825,-0.74931 l 7.102924,-7.10293 z"
+         id="path929" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#e28b19;fill-opacity:1;stroke:none;stroke-width:0.28024408;filter:url(#filter973)"
+         d="m 36.049478,-158.07725 0.09354,13.80639 a 6.8070801,6.8070801 0 0 1 1.269688,0.64906 l 6.815089,-6.49883 -7.266222,-7.26622 c -0.278175,-0.27818 -0.5865,-0.50561 -0.912091,-0.6904 z m -4.233333,0.0419 c -0.299175,0.17763 -0.583401,0.39065 -0.841293,0.64854 l -16.482197,16.48219 c -1.658354,1.65836 -1.658354,4.32836 0,5.98672 l 16.482197,16.48219 c 1.658356,1.65835 4.328361,1.65835 5.986717,0 l 16.481678,-16.48219 c 1.658356,-1.65836 1.658356,-4.32836 0,-5.98672 l -6.221325,-6.22184 -7.163387,6.83111 a 6.8070801,6.8070801 0 0 1 0.426331,2.358 6.8070801,6.8070801 0 0 1 -6.807335,6.80733 6.8070801,6.8070801 0 0 1 -6.806821,-6.80733 6.8070801,6.8070801 0 0 1 5.037936,-6.57015 z"
+         id="path931" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#009bdb;fill-opacity:1;stroke:none;stroke-width:0.28024408;filter:url(#filter961)"
+         d="m 62.505226,-186.22282 c -1.082119,0 -2.164437,0.41468 -2.993614,1.24385 l -6.879167,6.87917 6.872449,6.69261 h 5.16e-4 a 6.8070801,6.8070801 0 0 1 3.087669,-0.74052 6.8070801,6.8070801 0 0 1 6.806819,6.80734 6.8070801,6.8070801 0 0 1 -6.806819,6.80682 6.8070801,6.8070801 0 0 1 -2.780194,-0.59997 l -6.862112,6.54431 6.560839,6.56084 c 1.658355,1.65835 4.328877,1.65835 5.987232,0 l 16.481681,-16.48168 c 1.658353,-1.65836 1.658353,-4.32837 0,-5.98672 l -16.481681,-16.4822 c -0.829178,-0.82917 -1.911496,-1.24385 -2.993618,-1.24385 z m -12.866396,11.11715 -6.6089,6.6089 c -1.658353,1.65835 -1.658353,4.32836 0,5.98672 l 6.926194,6.92619 6.719485,-6.4084 a 6.8070801,6.8070801 0 0 1 -0.889868,-3.34811 6.8070801,6.8070801 0 0 1 0.735873,-3.06183 z"
+         id="path933" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.0848732px;line-height:1.25;font-family:helvetica;-inkscape-font-specification:helvetica;letter-spacing:0px;word-spacing:0px;fill:#00917c;fill-opacity:1;stroke:none;stroke-width:1.02712202;filter:url(#filter949)"
+         x="90.680023"
+         y="-42.84082"
+         id="text937"
+         transform="matrix(0.99894112,0,0,1.00106,0,-97.895833)"><tspan
+           sodipodi:role="line"
+           id="tspan935"
+           x="90.680023"
+           y="-42.84082"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:helvetica;-inkscape-font-specification:helvetica;fill:#00917c;fill-opacity:1;stroke-width:1.02712202">CRPL</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#00917c;fill-opacity:1;stroke:none;stroke-width:0.28024408;filter:url(#filter2872)"
+         d="m 35.857832,-103.25675 c -1.082119,0 -2.163921,0.41468 -2.993099,1.24385 l -16.482197,16.481683 c -1.658354,1.658355 -1.658354,4.328361 0,5.986716 l 16.482197,16.482198 c 0.228825,0.228824 0.47797,0.422915 0.740008,0.588594 l -0.09405,-13.739214 a 6.8070801,6.8070801 0 0 1 -4.939234,-6.539651 6.8070801,6.8070801 0 0 1 6.807337,-6.807337 6.8070801,6.8070801 0 0 1 6.806819,6.807337 6.8070801,6.8070801 0 0 1 -0.492993,2.528528 l 7.25537,7.064684 6.385139,-6.385139 c 1.658356,-1.658355 1.658356,-4.328361 0,-5.986716 L 38.85145,-102.0129 c -0.829178,-0.82917 -1.911496,-1.24385 -2.993618,-1.24385 z m 3.107304,26.2847 a 6.8070801,6.8070801 0 0 1 -1.221113,0.597379 l 0.0956,14.061676 c 0.363188,-0.193273 0.705067,-0.442551 1.011825,-0.749308 l 7.102924,-7.102928 z"
+         id="path987"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/CRPL_LOGO_LIGHT_GLOW.png"
+         inkscape:export-xdpi="100.02991"
+         inkscape:export-ydpi="100.02991" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#e28b19;fill-opacity:1;stroke:none;stroke-width:0.28024408;filter:url(#filter2860)"
+         d="m 37.939359,-47.708202 0.09354,13.806392 a 6.8070801,6.8070801 0 0 1 1.269688,0.649055 l 6.815089,-6.498828 -7.266222,-7.266223 c -0.278175,-0.278175 -0.5865,-0.505608 -0.912091,-0.690396 z m -4.233333,0.04186 c -0.299175,0.177625 -0.583401,0.390647 -0.841293,0.648539 l -16.482197,16.482194 c -1.658354,1.658356 -1.658354,4.328361 0,5.986717 l 16.482197,16.4821892 c 1.658356,1.658351 4.328361,1.658351 5.986717,0 L 55.333128,-24.548892 c 1.658356,-1.658356 1.658356,-4.328361 0,-5.986717 l -6.221325,-6.221841 -7.163387,6.831108 a 6.8070801,6.8070801 0 0 1 0.426331,2.357995 6.8070801,6.8070801 0 0 1 -6.807335,6.807335 6.8070801,6.8070801 0 0 1 -6.806821,-6.807335 6.8070801,6.8070801 0 0 1 5.037936,-6.570141 z"
+         id="path989"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/CRPL_LOGO_LIGHT_GLOW.png"
+         inkscape:export-xdpi="100.02991"
+         inkscape:export-ydpi="100.02991" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#009bdb;fill-opacity:1;stroke:none;stroke-width:0.28024408;filter:url(#filter2848)"
+         d="m 64.395107,-75.853772 c -1.082119,0 -2.164437,0.414676 -2.993614,1.243853 l -6.879167,6.879167 6.872449,6.692614 h 5.16e-4 a 6.8070801,6.8070801 0 0 1 3.087669,-0.740524 6.8070801,6.8070801 0 0 1 6.806819,6.807338 6.8070801,6.8070801 0 0 1 -6.806819,6.806819 6.8070801,6.8070801 0 0 1 -2.780194,-0.599964 l -6.862112,6.544302 6.560839,6.560841 c 1.658355,1.658353 4.328877,1.658353 5.987232,0 l 16.481681,-16.481681 c 1.658353,-1.658353 1.658353,-4.328361 0,-5.986714 L 67.388725,-74.609919 c -0.829178,-0.829177 -1.911496,-1.243853 -2.993618,-1.243853 z m -12.866396,11.117151 -6.6089,6.6089 c -1.658353,1.658353 -1.658353,4.328361 0,5.986714 l 6.926194,6.926193 6.719485,-6.408396 a 6.8070801,6.8070801 0 0 1 -0.889868,-3.348114 6.8070801,6.8070801 0 0 1 0.735873,-3.06183 z"
+         id="path991"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/CRPL_LOGO_LIGHT_GLOW.png"
+         inkscape:export-xdpi="100.02991"
+         inkscape:export-ydpi="100.02991" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.0848732px;line-height:1.25;font-family:helvetica;-inkscape-font-specification:helvetica;letter-spacing:0px;word-spacing:0px;fill:#00917c;fill-opacity:1;stroke:none;stroke-width:1.02712202;filter:url(#filter2836)"
+         x="92.571907"
+         y="-30.380816"
+         id="text995"
+         transform="scale(0.99894112,1.00106)"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/CRPL_LOGO_LIGHT_GLOW.png"
+         inkscape:export-xdpi="100.02991"
+         inkscape:export-ydpi="100.02991"><tspan
+           sodipodi:role="line"
+           id="tspan993"
+           x="92.571907"
+           y="-30.380816"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:helvetica;-inkscape-font-specification:helvetica;fill:#00917c;fill-opacity:1;stroke-width:1.02712202">CRPL</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#00917c;fill-opacity:1;stroke:none;stroke-width:0.28024408;filter:url(#filter3219)"
+         d="m 249.41438,-105.90258 c -1.08212,0 -2.16392,0.41467 -2.9931,1.24385 l -16.4822,16.48168 c -1.65835,1.658355 -1.65835,4.328361 0,5.986716 l 16.4822,16.482198 c 0.22883,0.228824 0.47797,0.422915 0.74001,0.588594 l -0.0941,-13.739214 a 6.8070801,6.8070801 0 0 1 -4.93924,-6.539651 6.8070801,6.8070801 0 0 1 6.80734,-6.807337 6.8070801,6.8070801 0 0 1 6.80682,6.807337 6.8070801,6.8070801 0 0 1 -0.49299,2.528528 l 7.25537,7.064684 6.38514,-6.385139 c 1.65835,-1.658355 1.65835,-4.328361 0,-5.986716 L 252.408,-104.65873 c -0.82918,-0.82918 -1.9115,-1.24385 -2.99362,-1.24385 z m 3.1073,26.284697 a 6.8070801,6.8070801 0 0 1 -1.22111,0.597379 l 0.0956,14.061676 c 0.36319,-0.193273 0.70507,-0.442551 1.01183,-0.749308 l 7.10292,-7.102928 z"
+         id="path3019"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/CRPL_LOGO_DARK_GLOW.png"
+         inkscape:export-xdpi="100.02991"
+         inkscape:export-ydpi="100.02991" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#e28b19;fill-opacity:1;stroke:none;stroke-width:0.28024408;filter:url(#filter3207)"
+         d="m 251.49591,-50.354035 0.0935,13.806392 a 6.8070801,6.8070801 0 0 1 1.26968,0.649055 l 6.81509,-6.498828 -7.26622,-7.266223 c -0.27817,-0.278175 -0.5865,-0.505608 -0.91209,-0.690396 z m -4.23334,0.04186 c -0.29917,0.177625 -0.5834,0.390647 -0.84129,0.648539 l -16.4822,16.482194 c -1.65835,1.658356 -1.65835,4.328361 0,5.986717 l 16.4822,16.482189 c 1.65836,1.6583509 4.32836,1.6583509 5.98672,0 l 16.48168,-16.482189 c 1.65835,-1.658356 1.65835,-4.328361 0,-5.986717 l -6.22133,-6.221841 -7.16339,6.831108 a 6.8070801,6.8070801 0 0 1 0.42633,2.357995 6.8070801,6.8070801 0 0 1 -6.80733,6.807335 6.8070801,6.8070801 0 0 1 -6.80682,-6.807335 6.8070801,6.8070801 0 0 1 5.03793,-6.570141 z"
+         id="path3021"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/CRPL_LOGO_DARK_GLOW.png"
+         inkscape:export-xdpi="100.02991"
+         inkscape:export-ydpi="100.02991" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#009bdb;fill-opacity:1;stroke:none;stroke-width:0.28024408;filter:url(#filter3195)"
+         d="m 277.95165,-78.499605 c -1.08211,0 -2.16443,0.414676 -2.99361,1.243853 l -6.87917,6.879167 6.87245,6.692614 h 5.2e-4 a 6.8070801,6.8070801 0 0 1 3.08767,-0.740524 6.8070801,6.8070801 0 0 1 6.80682,6.807338 6.8070801,6.8070801 0 0 1 -6.80682,6.806819 6.8070801,6.8070801 0 0 1 -2.7802,-0.599964 l -6.86211,6.544302 6.56084,6.560841 c 1.65836,1.658353 4.32888,1.658353 5.98723,0 l 16.48168,-16.481681 c 1.65836,-1.658353 1.65836,-4.328361 0,-5.986714 l -16.48168,-16.482198 c -0.82918,-0.829177 -1.91149,-1.243853 -2.99362,-1.243853 z m -12.86639,11.117151 -6.6089,6.6089 c -1.65835,1.658353 -1.65835,4.328361 0,5.986714 l 6.92619,6.926193 6.71949,-6.408396 a 6.8070801,6.8070801 0 0 1 -0.88987,-3.348114 6.8070801,6.8070801 0 0 1 0.73587,-3.06183 z"
+         id="path3023"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/CRPL_LOGO_DARK_GLOW.png"
+         inkscape:export-xdpi="100.02991"
+         inkscape:export-ydpi="100.02991" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.0848732px;line-height:1.25;font-family:helvetica;-inkscape-font-specification:helvetica;letter-spacing:0px;word-spacing:0px;fill:#00917c;fill-opacity:1;stroke:none;stroke-width:1.02712202;filter:url(#filter3183)"
+         x="306.35483"
+         y="-33.023846"
+         id="text3027"
+         transform="scale(0.99894112,1.00106)"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/CRPL_LOGO_DARK_GLOW.png"
+         inkscape:export-xdpi="100.02991"
+         inkscape:export-ydpi="100.02991"><tspan
+           sodipodi:role="line"
+           id="tspan3025"
+           x="306.35483"
+           y="-33.023846"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:helvetica;-inkscape-font-specification:helvetica;fill:#00917c;fill-opacity:1;stroke-width:1.02712202">CRPL</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#00917c;fill-opacity:1;stroke:none;stroke-width:0.28024408"
+         d="m 242.61081,4.4664661 c -1.08212,0 -2.16392,0.4146762 -2.9931,1.2438512 l -16.4822,16.4816807 c -1.65835,1.658355 -1.65835,4.328361 0,5.986716 l 16.4822,16.482198 c 0.22882,0.228824 0.47797,0.422915 0.74001,0.588594 l -0.0941,-13.739214 a 6.8070801,6.8070801 0 0 1 -4.93924,-6.539651 6.8070801,6.8070801 0 0 1 6.80734,-6.807337 6.8070801,6.8070801 0 0 1 6.80682,6.807337 6.8070801,6.8070801 0 0 1 -0.49299,2.528528 l 7.25537,7.064684 6.38514,-6.385139 c 1.65835,-1.658355 1.65835,-4.328361 0,-5.986716 L 245.60443,5.7103173 c -0.82918,-0.829175 -1.9115,-1.2438512 -2.99362,-1.2438512 z m 3.1073,26.2846989 a 6.8070801,6.8070801 0 0 1 -1.22111,0.597379 l 0.0956,14.061676 c 0.36319,-0.193273 0.70507,-0.442551 1.01182,-0.749308 l 7.10293,-7.102928 z"
+         id="path3234"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/CRPL_LOGO_SUNITA.png"
+         inkscape:export-xdpi="100.08939"
+         inkscape:export-ydpi="100.08939" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#e28b19;fill-opacity:1;stroke:none;stroke-width:0.28024408"
+         d="m 244.69234,60.015013 0.0935,13.806392 a 6.8070801,6.8070801 0 0 1 1.26968,0.649055 l 6.81509,-6.498828 -7.26622,-7.266223 c -0.27817,-0.278175 -0.5865,-0.505608 -0.91209,-0.690396 z m -4.23334,0.04186 c -0.29917,0.177625 -0.5834,0.390647 -0.84129,0.648539 l -16.4822,16.482194 c -1.65835,1.658356 -1.65835,4.328361 0,5.986717 l 16.4822,16.482189 c 1.65836,1.658348 4.32836,1.658348 5.98672,0 L 262.0861,83.174323 c 1.65836,-1.658356 1.65836,-4.328361 0,-5.986717 l -6.22132,-6.221841 -7.16339,6.831108 a 6.8070801,6.8070801 0 0 1 0.42633,2.357995 6.8070801,6.8070801 0 0 1 -6.80733,6.807335 6.8070801,6.8070801 0 0 1 -6.80682,-6.807335 6.8070801,6.8070801 0 0 1 5.03793,-6.570141 z"
+         id="path3236"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/CRPL_LOGO_SUNITA.png"
+         inkscape:export-xdpi="100.08939"
+         inkscape:export-ydpi="100.08939" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#009bdb;fill-opacity:1;stroke:none;stroke-width:0.28024408"
+         d="m 271.14808,31.869443 c -1.08212,0 -2.16443,0.414676 -2.99361,1.243853 l -6.87917,6.879167 6.87245,6.692614 h 5.2e-4 a 6.8070801,6.8070801 0 0 1 3.08767,-0.740524 6.8070801,6.8070801 0 0 1 6.80682,6.807338 6.8070801,6.8070801 0 0 1 -6.80682,6.806819 6.8070801,6.8070801 0 0 1 -2.7802,-0.599964 l -6.86211,6.544302 6.56084,6.560841 c 1.65835,1.658353 4.32888,1.658353 5.98723,0 l 16.48168,-16.481681 c 1.65836,-1.658353 1.65836,-4.328361 0,-5.986714 L 274.1417,33.113296 c -0.82918,-0.829177 -1.91149,-1.243853 -2.99362,-1.243853 z m -12.86639,11.117151 -6.6089,6.6089 c -1.65836,1.658353 -1.65836,4.328361 0,5.986714 l 6.92619,6.926193 6.71949,-6.408396 a 6.8070801,6.8070801 0 0 1 -0.88987,-3.348114 6.8070801,6.8070801 0 0 1 0.73587,-3.06183 z"
+         id="path3238"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/CRPL_LOGO_SUNITA.png"
+         inkscape:export-xdpi="100.08939"
+         inkscape:export-ydpi="100.08939" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.0848732px;line-height:1.25;font-family:helvetica;-inkscape-font-specification:helvetica;letter-spacing:0px;word-spacing:0px;fill:#00917c;fill-opacity:1;stroke:none;stroke-width:1.02712202"
+         x="299.54404"
+         y="77.228333"
+         id="text3242"
+         transform="scale(0.99894112,1.00106)"
+         inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/CRPL_LOGO_SUNITA.png"
+         inkscape:export-xdpi="100.08939"
+         inkscape:export-ydpi="100.08939"><tspan
+           sodipodi:role="line"
+           id="tspan3240"
+           x="299.54404"
+           y="77.228333"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:helvetica;-inkscape-font-specification:helvetica;fill:#00917c;fill-opacity:1;stroke-width:1.02712202">CRPL</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.48403835px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00917c;fill-opacity:1;stroke:none;stroke-width:0.13710096"
+       x="339.25006"
+       y="83.987015"
+       id="text3248"
+       inkscape:export-filename="/Users/celsloaner/Google Drive/University of Delaware/Sunita/CRPL/CRPL_LOGO_SUNITA.png"
+       inkscape:export-xdpi="100.08939"
+       inkscape:export-ydpi="100.08939"><tspan
+         sodipodi:role="line"
+         id="tspan3246"
+         x="339.25006"
+         y="83.987015"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.4840045px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00917c;fill-opacity:1;stroke-width:0.13710096">Sunita Chandrasekaran</tspan></text>
+  </g>
+</svg>
