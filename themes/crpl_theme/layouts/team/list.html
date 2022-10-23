@@ -1,0 +1,46 @@
+{{ define "main" }}
+<div class="container_sunita">
+    <div class="row_sunita">
+      <div class="col_sunita">
+        <div class="author_sunita">
+
+          <div class="author_left_sunita">
+            <h1 class="author_name_sunita">Hello I’m Sunita Chandrasekaran</h1>
+            <p class="author_bio_sunita">Associate Professor at the Dept. of CIS, University of Delaware and this is my research group.</p>
+            
+            <a class="author_btn_sunita" href="https://www.eecis.udel.edu/~schandra/">
+              <span class="circle-bg"><i class="ion ion-md-arrow-down button-arrow"></i></span> See my works
+            </a>
+            
+          </div>
+
+          <div class="author_right_sunita">
+            <div class="author_image_sunita">
+              <img class="lazy_sunita" alt="James Clayton's Picture" data-ll-status="loaded" src="/img/team/schandra.jpg">
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+</div>
+
+<div class="mx-auto my-10 max-w-6xl">
+    <div class="mx-3 col-span-3 lg:col-span-2 px-2">
+        <h1 class="author_name_sunita">{{.Title}}</h1>
+        <div class="content py-1">{{.Content}}</div>
+    </div>
+</div>
+<section class="section pb-0">      
+    <div class="container">
+        <div class="row no-gutters">           
+            {{ range .Pages.ByWeight }}
+            {{ .Render "summary" }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ end }}
+
+
