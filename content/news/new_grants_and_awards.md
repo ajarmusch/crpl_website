@@ -4,6 +4,7 @@ title = "New Grants and Awards"
 tags = [
     "2021",
 ]
+date = "2021-02-11"
 image = "/img/news/UDEL.png"
 +++
 
