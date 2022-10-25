@@ -2,3 +2,18 @@
  This CSS file is used to override the existing styles of the theme.
  You can change the article headings, fonts, colors, etc.
 */
+
+.swiper-row {
+  display: flex;
+  width: 100%;
+}
+
+.header-content {
+  margin-right: 10px;
+  width: 50%;
+}
+
+.swiper-box {
+  width: 60%;
+  padding-left: 25px;
+}
