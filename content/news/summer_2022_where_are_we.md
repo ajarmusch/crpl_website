@@ -1,6 +1,6 @@
 +++
 author = "CRPL Lab Contributors"
-title = "Where are CRPL students 2022 Summer?"
+title = "Where were CRPL students this Summer?"
 tags = [
     "2022",
 ]

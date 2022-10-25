@@ -1,5 +1,5 @@
 +++
-aliases = ["posts", "articles", "blog", "showcase", "docs"]
+aliases = ["posts", "articles", "news", "showcase", "docs"]
 title = "News"
 author = "CRPL Lab Contributors"
 tags = ["index"]
