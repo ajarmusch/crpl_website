@@ -1,22 +1,15 @@
 
-<div class="swiper-row" >
-    <div class="header-content">
-        <h1>Sup!</h1>
-    </div>
-    <div class="swiper-box">
-        <div class="swiper-container">
-            <div class="swiper-wrapper">
-                {{ range .Site.Data.slide }}
-                <div class="swiper-slide">
-                    <img src="{{ .image }}" alt="">
-                    <div class="s-fade-txt">
-                        <h1 class="text-4xl text-white">{{ .title }}</h1>
-                    </div>
-                </div>
-                {{ end }}
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        {{ range .Site.Data.slide }}
+        <div class="swiper-slide">
+            <img src="{{ .image }}" alt="">
+            <div class="s-fade-txt">
+                <h1 class="text-4xl text-white text-center">{{ .title }}</h1>
             </div>
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>
         </div>
+        {{ end }}
     </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
 </div>
