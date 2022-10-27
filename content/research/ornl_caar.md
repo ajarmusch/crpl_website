@@ -1,6 +1,9 @@
 +++
 title = "ORNL CAAR"
 date = "2020-05-26T11:04:20+02:00"
+tags = [
+    "current",
+]
 +++
 
 ### ORNL CAAR: Preparing PIConGPU, a plasma physics application for exascale systems - Frontier at ORNL

@@ -1,6 +1,9 @@
 +++
 title = "Validation and Verification Testsuite OpenACC"
 date = "2022-08-17T11:04:20+02:00"
+tags = [
+    "current",
+]
 +++
 
 ### OpenACC/NVIDIA: Creating a validation and verification testsuite for OpenACC 2.x features

@@ -1,6 +1,9 @@
 +++
 title = "Big Data Analytics and Machine Learning"
 date = "2020-05-26T11:04:20+02:00"
+tags = [
+    "current",
+]
 +++
 
 ### Big Data Analytics and Machine Learning

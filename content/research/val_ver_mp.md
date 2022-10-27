@@ -1,6 +1,9 @@
 +++
 title = "OpenMP Validation and Verification Testsuite"
 date = "2022-08-17T11:04:20+02:00"
+tags = [
+    "current",
+]
 +++
 
 ### OpenMP VV: A Testsuite to Validate and Verify OpenMP Features which is apart of the ECP SOLLVE project

@@ -1,6 +1,9 @@
 +++
 title = "NSF CISE Software & Hardware Foundation (SHF) Project"
 date = "2020-05-26T11:04:20+02:00"
+tags = [
+    "current",
+]
 +++
 
 ### SHF: PAW: Novel Functionality in Programming Models to Productively Abstract Wavefront Parallel Pattern  

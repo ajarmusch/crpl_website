@@ -1,6 +1,9 @@
 +++
 title = "Acceleration of Next Generation Sequence (NGS) Alignment"
 date = "2020-05-26T11:04:20+02:00"
+tags = [
+    "current",
+]
 +++
 
 ### Acceleration of Next Generation Sequence (NGS) Alignment
