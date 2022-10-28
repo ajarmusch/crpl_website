@@ -1477,11 +1477,6 @@ video {
   list-style-type: none;
 }
 
-.columns-2 {
-  -moz-columns: 2;
-       columns: 2;
-}
-
 .grid-flow-dense {
   grid-auto-flow: dense;
 }
@@ -1744,16 +1739,6 @@ video {
      object-fit: cover;
 }
 
-.object-scale-down {
-  -o-object-fit: scale-down;
-     object-fit: scale-down;
-}
-
-.object-right-top {
-  -o-object-position: right top;
-     object-position: right top;
-}
-
 .p-8 {
   padding: 2rem;
 }
@@ -1849,18 +1834,6 @@ video {
 
 .pl-8 {
   padding-left: 2rem;
-}
-
-.pl-6 {
-  padding-left: 1.5rem;
-}
-
-.pr-6 {
-  padding-right: 1.5rem;
-}
-
-.pb-4 {
-  padding-bottom: 1rem;
 }
 
 .pl-4 {
