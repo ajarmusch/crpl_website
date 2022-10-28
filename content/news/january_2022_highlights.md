@@ -1,12 +1,8 @@
-+++
-author = "CRPL Lab Contributors"
-title = "January 2022 Highlights"
-tags = [
-    "2022",
-]
-date = "2022-01-01"
-image = "/img/news/UDEL.png"
-+++
+---
+title: "January 2022 Highlights"
+date: "2022-01-01"
+image: "/img/news/UDEL.png"
+---
 
 
 - Kristina Holsapple selected as Adobe Women-in-Technology Scholar 2022 scholar

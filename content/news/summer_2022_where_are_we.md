@@ -1,12 +1,8 @@
-+++
-author = "CRPL Lab Contributors"
-title = "Where were CRPL students this Summer?"
-tags = [
-    "2022",
-]
-date = "2022-07-11"
-image = "/img/news/UDEL.png"
-+++
+---
+title: "Where were CRPL students this Summer?"
+date: "2022-07-11"
+image: "/img/news/UDEL.png"
+---
 
 - Fabian Mora - NVIDIA
 - Mauricio Ferrato - NVIDIA
