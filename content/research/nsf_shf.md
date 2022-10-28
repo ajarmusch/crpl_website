@@ -4,6 +4,7 @@ date = "2020-05-26T11:04:20+02:00"
 tags = [
     "current",
 ]
+image = "/img/research/nsf.png"
 +++
 
 ### SHF: PAW: Novel Functionality in Programming Models to Productively Abstract Wavefront Parallel Pattern  

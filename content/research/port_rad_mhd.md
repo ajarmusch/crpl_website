@@ -4,6 +4,7 @@ date = "2020-05-26T11:04:20+02:00"
 tags = [
     "current",
 ]
+image = "/img/research/NCAR.png"
 +++
 
 ### Porting the MPS/University of Chicago Radiative MHD Models to GPUs Using OpenACC
