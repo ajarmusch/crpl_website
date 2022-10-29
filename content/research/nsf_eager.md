@@ -1,10 +1,9 @@
 +++
 title = "NSF Eager"
 date = "2020-05-26T11:04:20+02:00"
-tags = [
-    "completed",
-]
-image = "/img/research/nsf.png"
+stage = "completed"
+image = "/img/research/nsf.jpeg"
+text = "Building accelerator benchmark suite to stress test hardware, in collaboration with Standard Performance Evaluation Corporation High Performance Group (SPEC HPG)"
 +++
 
 ### NSF EAGER: Measuring Real World Application Performance on Next-Generation Computing Systems

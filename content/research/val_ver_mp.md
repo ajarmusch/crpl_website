@@ -1,10 +1,9 @@
 +++
 title = "OpenMP Validation and Verification Testsuite"
 date = "2022-08-17T11:04:20+02:00"
-tags = [
-    "current",
-]
+stage = "current"
 image = "/img/research/sollvevvblue.png"
+text = "Building validation & verification (V&V) suites to validate the implementations of OpenMP 4.5+ offloading features"
 +++
 
 ### OpenMP VV: A Testsuite to Validate and Verify OpenMP Features which is apart of the ECP SOLLVE project

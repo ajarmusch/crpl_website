@@ -1,10 +1,9 @@
 +++
 title = "Validation and Verification Testsuite OpenACC"
 date = "2022-08-17T11:04:20+02:00"
-tags = [
-    "current",
-]
+stage = "current"
 image = "/img/research/openacc.png"
+text = "Building an OpenACC Validation & Verification (V&V) testsuite to validate implementations of OpenACC 2.5 features"
 +++
 
 ### OpenACC/NVIDIA: Creating a validation and verification testsuite for OpenACC 2.x features

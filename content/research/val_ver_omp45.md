@@ -1,9 +1,9 @@
 +++
 title = "Validation and Verification Suite for OpenMP Offloading"
 date = "2020-05-26T11:04:20+02:00"
-tags = [
-    "current",
-]
+stage = "current"
+image = "/img/research/sollvevvblue.png"
+text = "Building validation & verification (V&V) suites to validate the implementations of OpenMP 4.5+ offloading features"
 +++
 
 ### Validation and Verification Suite for OpenMP Offloading
