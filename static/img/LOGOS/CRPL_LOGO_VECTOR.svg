@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="CRPL_LOGO_VECTOR.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="444.34672"
+     inkscape:cy="556.41922"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     inkscape:window-x="13"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4694"
+       style="stroke-width:0.45861111;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-xdpi="799.92468"
+       inkscape:export-ydpi="799.92468">
+      <path
+         id="rect72"
+         transform="scale(0.26458333)"
+         d="M 130.38281 365.73828 C 126.29291 365.73828 122.20421 367.30556 119.07031 370.43945 L 56.775391 432.73242 C 50.507596 439.00022 50.507596 449.09158 56.775391 455.35938 L 119.07031 517.6543 C 119.93516 518.51915 120.87681 519.25272 121.86719 519.87891 L 121.51172 467.95117 A 25.727547 25.727547 0 0 1 102.84375 443.23438 A 25.727547 25.727547 0 0 1 128.57227 417.50586 A 25.727547 25.727547 0 0 1 154.29883 443.23438 A 25.727547 25.727547 0 0 1 152.43555 452.79102 L 179.85742 479.49219 L 203.99023 455.35938 C 210.25803 449.09158 210.25803 439.00022 203.99023 432.73242 L 141.69727 370.43945 C 138.56337 367.30556 134.47272 365.73828 130.38281 365.73828 z M 142.12695 465.08203 A 25.727547 25.727547 0 0 1 137.51172 467.33984 L 137.87305 520.48633 C 139.24573 519.75585 140.53787 518.8137 141.69727 517.6543 L 168.54297 490.80859 L 142.12695 465.08203 z "
+         style="fill:#00917c;fill-opacity:1;stroke:none;stroke-width:1.73333335;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="rect96"
+         transform="scale(0.26458333)"
+         d="M 138.25 575.68555 L 138.60352 627.86719 A 25.727547 25.727547 0 0 1 143.40234 630.32031 L 169.16016 605.75781 L 141.69727 578.29492 C 140.6459 577.24355 139.48058 576.38396 138.25 575.68555 z M 122.25 575.84375 C 121.11926 576.51509 120.04502 577.32021 119.07031 578.29492 L 56.775391 640.58984 C 50.507596 646.85764 50.507596 656.949 56.775391 663.2168 L 119.07031 725.51172 C 125.33811 731.77951 135.42947 731.77951 141.69727 725.51172 L 203.99023 663.2168 C 210.25803 656.949 210.25803 646.85764 203.99023 640.58984 L 180.47656 617.07422 L 153.40234 642.89258 A 25.727547 25.727547 0 0 1 155.01367 651.80469 A 25.727547 25.727547 0 0 1 129.28516 677.5332 A 25.727547 25.727547 0 0 1 103.55859 651.80469 A 25.727547 25.727547 0 0 1 122.59961 626.97266 L 122.25 575.84375 z "
+         style="fill:#e28b19;fill-opacity:1;stroke:none;stroke-width:1.73333335;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="rect118"
+         transform="scale(0.26458333)"
+         d="M 238.24023 469.30859 C 234.15033 469.30859 230.05968 470.87587 226.92578 474.00977 L 200.92578 500.00977 L 226.90039 525.30469 L 226.90234 525.30469 A 25.727547 25.727547 0 0 1 238.57227 522.50586 A 25.727547 25.727547 0 0 1 264.29883 548.23438 A 25.727547 25.727547 0 0 1 238.57227 573.96094 A 25.727547 25.727547 0 0 1 228.06445 571.69336 L 202.12891 596.42773 L 226.92578 621.22461 C 233.19358 627.4924 243.28689 627.4924 249.55469 621.22461 L 311.84766 558.93164 C 318.11545 552.66385 318.11545 542.57248 311.84766 536.30469 L 249.55469 474.00977 C 246.42079 470.87587 242.33014 469.30859 238.24023 469.30859 z M 189.61133 511.32617 L 164.63281 536.30469 C 158.36502 542.57248 158.36502 552.66385 164.63281 558.93164 L 190.81055 585.10938 L 216.20703 560.88867 A 25.727547 25.727547 0 0 1 212.84375 548.23438 A 25.727547 25.727547 0 0 1 215.625 536.66211 L 189.61133 511.32617 z "
+         style="fill:#009bdb;fill-opacity:1;stroke:none;stroke-width:1.73333335;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         transform="scale(0.99894111,1.00106)"
+         id="text130"
+         y="169.43236"
+         x="91.209747"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.0848732px;line-height:1.25;font-family:helvetica;-inkscape-font-specification:helvetica;letter-spacing:0px;word-spacing:0px;fill:#00917c;fill-opacity:1;stroke:none;stroke-width:0.45861111;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:helvetica;-inkscape-font-specification:helvetica;stroke-width:0.45861111;fill:#00917c;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+           y="169.43236"
+           x="91.209747"
+           id="tspan128"
+           sodipodi:role="line">CRPL</tspan></text>
+    </g>
+  </g>
+</svg>
