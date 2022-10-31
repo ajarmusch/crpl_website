@@ -2376,6 +2376,15 @@ video {
     margin-bottom: 0;
   }
 
+  .md\:w-3\/4 {
+    width: 75%;
+  }
+
+  .md\:columns-2 {
+    -moz-columns: 2;
+         columns: 2;
+  }
+
   .md\:break-before-column {
     -moz-column-break-before: column;
          break-before: column;
