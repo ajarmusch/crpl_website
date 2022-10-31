@@ -3,7 +3,7 @@ name: "Jose M Monsalve Diaz"
 role: "Postdoctoral Appointee, Argonne National Laboratory, USA"
 subtitle: "Obtained his Master degree in 2019"
 date: "2019-01-01"
-link: "Solution Architect, NVIDIA Corporation, USA"
+link: "https://www.linkedin.com/in/josemonsalve2"
 ---
 
 I got my PhD and Masters from the University of Delaware. During this time I had the opportunity to work at the CRPL research group for several years. I obtained my master’s degree guided by Sunita and supported by my peers at CRPL. It was through this time that I really understood that a good graduate education experience can only be achieved through excellent academic advisors that have the ability to form strongly bonded research groups. Being a good professor and being able to create a strong research group goes beyond scientific relevance, and it is accompanied by a set of human and interpersonal skills that are often overlooked. Sunita’s research group shines for its academic excellence, but above all, for its human talent.
