@@ -2383,6 +2383,15 @@ video {
     margin-bottom: 0;
   }
 
+  .md\:w-3\/4 {
+    width: 75%;
+  }
+
+  .md\:columns-2 {
+    -moz-columns: 2;
+         columns: 2;
+  }
+
   .md\:break-before-column {
     -moz-column-break-before: column;
          break-before: column;
@@ -2404,6 +2413,10 @@ video {
   .md\:px-0 {
     padding-left: 0px;
     padding-right: 0px;
+  }
+
+  .md\:text-right {
+    text-align: right;
   }
 }
 
@@ -2658,6 +2671,11 @@ video {
     flex-grow: 1;
   }
 
+  .lg\:columns-2 {
+    -moz-columns: 2;
+         columns: 2;
+  }
+
   .lg\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
@@ -2690,6 +2708,10 @@ video {
   .lg\:px-0 {
     padding-left: 0px;
     padding-right: 0px;
+  }
+
+  .lg\:text-right {
+    text-align: right;
   }
 
   .lg\:hover\:bg-blue-500:hover {
