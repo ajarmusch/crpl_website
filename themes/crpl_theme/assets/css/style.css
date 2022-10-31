@@ -1357,6 +1357,14 @@ video {
   height: 100%;
 }
 
+.max-h-10 {
+  max-height: 2.5rem;
+}
+
+.max-h-40 {
+  max-height: 10rem;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
@@ -1504,6 +1512,10 @@ video {
 
 .gap-2 {
   gap: 0.5rem;
+}
+
+.gap-1 {
+  gap: 0.25rem;
 }
 
 .space-x-0 > :not([hidden]) ~ :not([hidden]) {
@@ -2376,6 +2388,10 @@ video {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   .md\:py-10 {
     padding-top: 2.5rem;
     padding-bottom: 2.5rem;
@@ -2640,6 +2656,10 @@ video {
 
   .lg\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-6 {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
   }
 
   .lg\:items-center {
