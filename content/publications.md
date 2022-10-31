@@ -41,7 +41,7 @@ In The 10th International Workshop on Programming Models and Applications for Mu
 
 * Robert Searles, Stephen Herbein, and Sunita Chandrasekaran. 2016. A Portable, High-Level Graph Analytics Framework Targeting Distributed, Heterogeneous Systems. In Proceedings of the Third International Workshop on Accelerator Programming Using Directives (WACCPD '16). IEEE Press, Piscataway, NJ, USA, 79-88. DOI: <a href="https://doi.org/10.1109/WACCPD.2016.012" target="_blank">10.1109/WACCPD.2016.012</a>.  
 
-### JOURNAL(s)
+### JOURNALS
 
 * Matt Leinhauser, Rene Widera, Sergi Bastrakov, Alex Debus, Michael Bussmann, and Sunita Chandrasekaran, Metrics and Design of an Instruction Roofline Model for AMD GPUs. ACM Transactions on Parallel Computing, Volume 9, Issue 1, March 2022, Article No.:1, pp 1–14 https://doi.org/10.1145/3505285
 
