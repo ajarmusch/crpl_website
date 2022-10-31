@@ -2,7 +2,7 @@
 title = "NSF CISE Software & Hardware Foundation (SHF) Project"
 date = "2020-05-26T11:04:20+02:00"
 stage = "current"
-image = "/img/research/nsf.jpeg"
+image = "/img/partners/NSF.png"
 text = "Exploring programming language features applicable to real-world applications"
 +++
 
