@@ -1,7 +1,18 @@
 {{ define "main" }}
 <div class="mx-auto my-10 max-w-6xl">
     <div class="mx-3 col-span-3 lg:col-span-2 px-2">
-        <h1 class="title text-5xl font-bold mb-3">{{.Params.name}}</h1>
+        {{ if .Params.link }}
+        <a href="{{ .Params.link }}">
+        {{ end }}
+        <h1 class="flex flex-row items-center title text-5xl font-bold mb-3">
+          {{.Params.name}}
+          {{ if .Params.link }}
+          <i class='pl-4 icon-link text-4xl'></i>
+          {{ end}}
+        </h1>
+        {{ if .Params.link }}
+        </a>
+        {{ end }}
         <section class="mb-4 text-lg">
             <h4 class="font-semibold">
               {{ .Params.role }} </h4>

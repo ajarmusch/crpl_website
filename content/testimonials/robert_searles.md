@@ -3,6 +3,7 @@ name: "Robert Searles"
 role: "Solution Architect, NVIDIA Corporation, USA"
 subtitle: "Obtained his PhD degree in 2019"
 date: "2019-01-06" 
+link: "https://www.eecis.udel.edu/~searles/"
 ---
 
 I spent 11 years of my life at University of Delaware obtaining my Bachelor’s Degree, Master’s Degree, and Doctorate. The best of those years were the nearly 3 years I had the pleasure of working with Prof. Sunita Chandrasekaran and the other students in her lab. She is smart, driven, and most importantly, she cares about her students. She pushes all of them to grow and learn, and she also cares about them on a personal level. She goes above and beyond to make sure that her students end up in places they want to be in their careers after leaving CRPL by leveraging all the connections she has made over the years in the field of HPC (which are extensive). In my case, I ended up working for my first-choice: NVIDIA.
