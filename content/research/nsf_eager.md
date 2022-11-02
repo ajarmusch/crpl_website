@@ -2,7 +2,7 @@
 title = "NSF Eager"
 date = "2020-05-26T11:04:20+02:00"
 stage = "completed"
-image = "/img/research/nsf.jpeg"
+image = "/img/partners/NSF.png"
 text = "Building accelerator benchmark suite to stress test hardware, in collaboration with Standard Performance Evaluation Corporation High Performance Group (SPEC HPG)"
 +++
 

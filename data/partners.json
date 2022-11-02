@@ -1,0 +1,30 @@
+[
+  {
+    "image": "/img/partners/NSF.png",
+    "link": "https://www.nsf.gov/"
+  },
+  {
+    "image": "/img/partners/ECP.jpg",
+    "link": "https://www.exascaleproject.org/"
+  },
+  {
+    "image": "/img/partners/NCAR.jpg",
+    "link": "https://ncar.ucar.edu/"
+  },
+  {
+    "image": "/img/partners/OpenACC.png",
+    "link": "https://www.openacc.org/"
+  },
+  {
+    "image": "/img/partners/NVIDIA.png",
+    "link": "https://www.nvidia.com/en-us/"
+  },
+  {
+    "image": "/img/partners/AiDupont.png",
+    "link": "https://www.nemours.org/welcome.html"
+  },
+  {
+    "image": "/img/partners/ORNL.jpg",
+    "link": "https://www.ornl.gov/"
+  }
+]

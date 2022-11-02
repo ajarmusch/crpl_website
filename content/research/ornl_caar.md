@@ -2,7 +2,7 @@
 title = "ORNL CAAR"
 date = "2020-05-26T11:04:20+02:00"
 stage = "current"
-image = "/img/research/ornl.png"
+image = "/img/partners/ORNL.jpg"
 text = "Exploring programming model and workflow for PiConGPU, in collaboration with ORNL and HZDR Germany"
 +++
 
