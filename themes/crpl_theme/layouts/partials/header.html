@@ -15,7 +15,7 @@
             </li>
         </ul>
     </div>
-    <nav class="flex items-center align-items-center justify-content-center justify-between flex-wrap bg-opacity-100 p-8">
+    <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
         <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
             <a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Params.logo.alt }}"
                     class="{{ .Site.Params.logo.size }} mr-3" src="{{ .Site.Params.logo.main | relURL }}"></a>
@@ -27,13 +27,13 @@
                 <span class="bottom"></span>
             </div>
         </div>
-        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:justify-content-center lg:align-content-center lg:w-auto lg:h-auto" id="mobileMenu">
+        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto lg:h-auto" id="mobileMenu">
             <div class="text-lg lg:flex-grow">
             </div>
             <div class="text-lg">
                 {{ range .Site.Menus.main }}
                 <a href="{{ .URL | safeURL }}"
-                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    class="duration-200 block text-lg mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
                     {{ .Name }}
                 </a>
                 {{ end }}
