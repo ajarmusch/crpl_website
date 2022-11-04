@@ -1,14 +1,28 @@
-<div class="swiper-container">
-    <div class="swiper-wrapper">
-        {{ range .Site.Data.slide }}
-        <div class="swiper-slide">
-            <img src="{{ .image }}" alt="">
-            <div class="s-fade-txt">
-                <h1 class="text-4xl text-white">{{ .title }}</h1>
+
+<div class="">
+    <div class="w-100 sm:w-3/4 md:w-3/4 mx-auto backg columns-1 lg:columns-2" >
+        <div class="text-center lg:text-right p-4">
+            <h1 class="text-5xl">Computational Research and Programming Lab</h1>
+            <p class="italic text-lg pt-4">At the University of Delaware</p>
+            <p class="text-xl pt-4">We focus on exploring programming models and 
+                their usage to parallelize and accelerate scientific applications on large scale supercomputers including 
+                Summit, Perlmutter, JUWELS and the upcoming Frontier.</p>
+        </div>
+        <div>
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                    {{ range .Site.Data.slide }}
+                    <div class="swiper-slide">
+                        <img style="height: 55vh;" src="{{ .image }}" alt="">
+                        <div class="s-fade-txt">
+                            <h1 class="text-4xl text-white text-center">{{ .title }}</h1>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
             </div>
         </div>
-        {{ end }}
     </div>
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-button-next"></div>
 </div>

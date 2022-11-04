@@ -143,7 +143,7 @@ html {
 
 .swiper-wrapper img {
   width: 100%;
-  height: 85vh;
+  height: 40vh;
   object-fit: cover;
 }
 .active {
@@ -151,7 +151,7 @@ html {
 }
 .slide-wrap img {
   width: 100%;
-  height: 85vh;
+  height: 40vh;
   object-fit: cover;
 }
 .slide-class {
