@@ -4,6 +4,10 @@ title = "Publications, Posters and Talks"
 
 ### Conferences and Workshops
 
+* Jarmusch, A. M., Liu, A., Munley, C., Horta, D., Ravichandran, V., Denny, J., & Chandrasekaran, S. (2022). Analysis of Validating and Verifying OpenACC Compilers 3.0 and Above. arXiv. https://doi.org/10.48550/arXiv.2208.13071
+
+* Huber, T., Pophale, S., Baker, N., Carr, M., Rao, N., Reap, J., Holsapple, K., Davis, J.H., Burnus, T., Lee, S. and Bernholdt, D.E., 2022. ECP SOLLVE: Validation and Verification Testsuite Status Update and Compiler Insight for OpenMP. arXiv preprint arXiv:2208.13301.
+
 * Holger Brunst, Sunita Chandrasekaran, Florina Ciorba, Nick Hagerty, Robert Henschel, Guido Juckeland, Junjie Li, Veronica G. Melesse Vergara, Sandra Wienke, Miguel Zavala., “First Experiences in Performance Benchmarking with the New SPEChpc 2021 Suites”, https://arxiv.org/abs/2203.06751 <ACCEPTED TO CCGrid 2022>
 
 * Kelling, J., Bastrakov, S., Debus, A., Kluge, T., Leinhauser, M., Pausch, R., Steiniger, K., Stephan, J., Widera, R., Young, J., Bussman, M., Chandrasekaran, S., & Juckeland, G. (2021). Challenges Porting a C++ Template-Metaprogramming Abstraction Layer to Directive-based Offloading. arXiv preprint arXiv:2110.08650.
@@ -69,6 +73,10 @@ In The 10th International Workshop on Programming Models and Applications for Mu
 * Leinhauser, Matthew, Young, Jeffrey, Bastrakov, Sergei, Widera, Rene, Chatterjee, Ronnie, & Chandrasekaran, Sunita. _Performance Analysis of PIConGPU: Particle-in-Cell on GPUs using NVIDIA’s NSight Systems and NSight Compute_. United States. [Link to PDF on OSTI](https://info.ornl.gov/sites/publications/Files/Pub148652.pdf)
 
 ### POSTERS
+
+* Jarmusch, A. M., Liu, A., Munley, C., Horta, D., Ravichandran, V., Denny, J., & Chandrasekaran, S. (2022). Analysis of Validating and Verifying OpenACC Compilers 3.0 and Above. Presented at Super Computing Conference 2022
+
+* Baker, N., Rao, N., Holsapple, K., Carr, M., Reap, J., Pophale, S., Lee, S., Bernholdt,  Chandrasekaran, S., D.E., 2022. ECP SOLLVE Validation and Verification OpenMP Offloading Testsuite. Presented at Super Computing Conference 2022.
 
 * Jarmusch, A., Baker, N. & Chandrasekaran, Su. (2021). Using Jetstream for OpenMP Offloading and OpenACC Testsuites. Presentation given at the Jetstream Research Experience for Undergraduates Program Presentation Session. Presented at Super Computing Conference 2021. (Virtual)
 

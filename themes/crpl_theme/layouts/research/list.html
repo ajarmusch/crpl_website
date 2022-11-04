@@ -4,7 +4,7 @@
         <h1 class="title text-5xl mb-4">{{.Title}}</h1>
         <div class="content py-1">{{.Content}}</div>
         <h1 class="title text-5xl mb-4">Current Projects</h1>
-        <div class="grid grid-cols-3 lg:grid-cols-3 mb-2 gap-2">
+        <div class="grid grid-cols-2 lg:grid-cols-3 mb-2 gap-2">
             {{ range where .Pages "Params.stage" "current" }}
             <a href="{{ .Permalink }}" class="border-r border-b border-l border-gray-400 lg:border-t lg:border-gray-400 relative pl-4 p-6 justify-between leading-normal max-w-full h-full duration-500 transform hover:-translate-y-1 hover:shadow-md">
                 <div>{{ .Render "summary" }}</div>
@@ -12,7 +12,7 @@
             {{ end }}
         </div>
         <h1 class="title text-5xl mb-4">Completed Projects</h1>
-        <div class="grid grid-cols-3 lg:grid-cols-3 mb-2 gap-2">
+        <div class="grid grid-cols-2 lg:grid-cols-3 mb-2 gap-2">
             {{ range where .Pages "Params.stage" "completed" }}
             <a href="{{ .Permalink }}" class="border-r border-b border-l border-gray-400 lg:border-t lg:border-gray-400 relative pl-4 p-6 justify-between leading-normal max-w-full h-full duration-500 transform hover:-translate-y-1 hover:shadow-md">
                 <div>{{ .Render "summary" }}</div>
@@ -20,7 +20,7 @@
             {{ end }}
         </div>
         <h1 class="title text-5xl mb-4">Github Repositories</h1>
-        <div class="grid grid-cols-3 lg:grid-cols-3 mb-2 gap-2">
+        <div class="grid grid-cols-2 lg:grid-cols-3 mb-2 gap-2">
             {{ range where .Pages "Params.stage" "github" }}
             <a href="{{ .Params.link }}" target="_blank" class="border-r border-b border-l border-gray-400 lg:border-t lg:border-gray-400 relative pl-4 p-6 justify-between leading-normal max-w-full h-full duration-500 transform hover:-translate-y-1 hover:shadow-md">
                 <div>{{ .Render "summary" }}</div>

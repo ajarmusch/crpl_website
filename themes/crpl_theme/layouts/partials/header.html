@@ -8,6 +8,11 @@
                 </a>
             </li>
             {{ end }}
+            <li class="p-2">
+                <a href="https://github.com/UD-CRPL">
+                    <i class='icon-github text-3xl duration-200 hover:opacity-60'></i>
+                </a>
+            </li>
         </ul>
     </div>
     <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
@@ -22,16 +27,19 @@
                 <span class="bottom"></span>
             </div>
         </div>
-        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+        <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto lg:h-auto" id="mobileMenu">
             <div class="text-lg lg:flex-grow">
             </div>
             <div class="text-lg">
                 {{ range .Site.Menus.main }}
                 <a href="{{ .URL | safeURL }}"
-                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
+                    class="duration-200 block text-lg mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
                     {{ .Name }}
                 </a>
                 {{ end }}
+                <a style="margin-top: -5px" href="https://github.com/UD-CRPL" class="duration-200 hover:opacity-60 mr-8 block lg:inline-block lg:mt-0 justify-center">
+                    <i class='icon-github text-2xl'></i>
+                </a>
             </div>
         </div>
     </nav>
