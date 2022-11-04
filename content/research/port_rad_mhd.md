@@ -2,7 +2,7 @@
 title = "Porting Radiative MHD Models to GPUs"
 date = "2020-05-26T11:04:20+02:00"
 stage = "current"
-image = "/img/research/NCAR.jpeg"
+image = "/img/partners/NCAR.jpg"
 text = "Acceleration of the MURaM Solar Physics Model using GPUs and OpenACC"
 +++
 
