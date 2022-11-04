@@ -2,7 +2,7 @@
 title = "Big Data Analytics and Machine Learning"
 date = "2020-05-26T11:04:20+02:00"
 stage = "current"
-image = "/img/research/nemours.png"
+image = "/img/partners/AiDupont.png"
 text = "Building predictive models for Sickle Cell Disease and Pediatric Cancer datasets:  Big Data Analytics and Machine Learning"
 +++
 

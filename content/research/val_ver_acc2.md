@@ -2,7 +2,7 @@
 title = "Validation and Verification Testsuite OpenACC"
 date = "2022-08-17T11:04:20+02:00"
 stage = "current"
-image = "/img/research/openacc.png"
+image = "/img/partners/OpenACC.png"
 text = "Building an OpenACC Validation & Verification (V&V) testsuite to validate implementations of OpenACC 2.5 features"
 +++
 
