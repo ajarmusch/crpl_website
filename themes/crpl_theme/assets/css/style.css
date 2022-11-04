@@ -1536,6 +1536,10 @@ video {
   --tw-space-x-reverse: 1;
 }
 
+.self-center {
+  align-self: center;
+}
+
 .self-baseline {
   align-self: baseline;
 }
@@ -2645,6 +2649,10 @@ video {
     height: 11rem;
   }
 
+  .lg\:h-auto {
+    height: auto;
+  }
+
   .lg\:max-h-full {
     max-height: 100%;
   }
@@ -2672,6 +2680,10 @@ video {
 
   .lg\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .lg\:content-center {
+    align-content: center;
   }
 
   .lg\:items-center {
