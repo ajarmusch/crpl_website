@@ -1498,6 +1498,10 @@ video {
   flex-wrap: nowrap;
 }
 
+.content-center {
+  align-content: center;
+}
+
 .items-center {
   align-items: center;
 }
@@ -2667,6 +2671,10 @@ video {
 
   .lg\:h-full {
     height: 100%;
+  }
+
+  .lg\:h-40 {
+    height: 10rem;
   }
 
   .lg\:max-h-full {
