@@ -1,10 +1,11 @@
 <div class="col-lg-3 col-sm-6">
     <div class="card hover-shadow">
-        <a href="{{ .Permalink }}">
+        <a href="{{ .Params.website | absURL }}">
             <img src="{{ .Params.image | absURL}}" alt="team-member" class="card-img-top">
             <div class="card-body text-center position-relative zindex-1">
-                <h4><a class="text-dark" href="team-single.html">{{ .Params.Name }}</a></h4>
+                <h4><a class="text-dark">{{ .Params.Name }}</a></h4>
                 <i>{{ .Params.Designation }}</i>
+                <i>{{ .Params.description }}</i>
             </div>
         </a>
     </div>

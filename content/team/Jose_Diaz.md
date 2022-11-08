@@ -1,11 +1,10 @@
 ---
 name  : Jose M Monsalve Diaz
-image : img/team/empty-profile.png
-designation : VIP, Undergraduate Researcher
-description : An Undergraduate Junior Reseacher, studying Electrical Engineering, working on the OpenACC V&V Testsuite. 
-twitter     : https://twitter.com/aaronjarmusch?lang=en
-linkedIn    : https://www.linkedin.com/in/aaron-jarmusch-1174981b1/
+image : img/team/jose-monsalve-diaz.png
+designation : Postdoc at Argonne National Laboratory
+description : 
+website     : http://www.monsalvediaz.com/jose
 featured: true
-weight: 3
+weight: 1
 grade: graduated
 ---

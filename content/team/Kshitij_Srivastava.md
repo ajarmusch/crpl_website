@@ -1,11 +1,10 @@
 ---
 name  : Kshitij Srivastava
-image : img/team/empty-profile.png
-designation : VIP, Undergraduate Researcher
-description : An Undergraduate Junior Reseacher, studying Electrical Engineering, working on the OpenACC V&V Testsuite. 
-twitter     : https://twitter.com/aaronjarmusch?lang=en
-linkedIn    : https://www.linkedin.com/in/aaron-jarmusch-1174981b1/
+image : img/team/kshitij-srivastava.jpg
+designation : Software Engineer, Hardware Acceleration Team, Aurora
+description : 
+website     : https://www.linkedin.com/in/kshitijsri
 featured: true
-weight: 3
+weight: 8
 grade: graduated
 ---

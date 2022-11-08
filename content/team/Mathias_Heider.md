@@ -3,8 +3,7 @@ name  : Mathias Heider
 image : img/team/mathias-heider.png
 designation : Undergraduate Researcher
 description : 
-twitter     : 
-linkedIn    : 
+website     : 
 featured: true
 weight: 5
 grade: undergraduate

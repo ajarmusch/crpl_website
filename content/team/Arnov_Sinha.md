@@ -1,10 +1,10 @@
 ---
 name  : Arnov Sinha
-image : img/team/emtpy-profile.png
+image : img/team/arnov-sinha.jpg
 designation : Red Violet
 description : Parallel Software Engineer
-website     : 
+website     : https://www.eecis.udel.edu/~arnov/
 featured: true
-weight: 3
+weight: 5
 grade: graduated
 ---

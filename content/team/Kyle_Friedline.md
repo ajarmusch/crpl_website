@@ -1,11 +1,10 @@
 ---
 name  : Kyle Friedline
-image : img/team/empty-profile.png
-designation : VIP, Undergraduate Researcher
-description : An Undergraduate Junior Reseacher, studying Electrical Engineering, working on the OpenACC V&V Testsuite. 
-twitter     : https://twitter.com/aaronjarmusch?lang=en
-linkedIn    : https://www.linkedin.com/in/aaron-jarmusch-1174981b1/
+image : img/team/kyle-friedline.jpg
+designation : Student
+description :  
+website     : https://github.com/utimatu
 featured: true
-weight: 3
+weight: 6
 grade: graduated
 ---

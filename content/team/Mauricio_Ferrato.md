@@ -1,11 +1,10 @@
 ---
 name  : Mauricio Ferrato
-image : img/team/empty-profile.png
-designation : VIP, Undergraduate Researcher
-description : An Undergraduate Junior Reseacher, studying Electrical Engineering, working on the OpenACC V&V Testsuite. 
-twitter     : https://twitter.com/aaronjarmusch?lang=en
-linkedIn    : https://www.linkedin.com/in/aaron-jarmusch-1174981b1/
+image : img/team/mauricio-ferrato.jpg
+designation : Ph.D student
+description : Nemours/Alfred I. duPont project
+website     : https://www.eecis.udel.edu/~mferrato
 featured: true
-weight: 1
+weight: 3
 grade: graduate
 ---

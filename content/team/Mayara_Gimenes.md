@@ -1,11 +1,10 @@
 ---
 name  : Mayara Gimenes
-image : img/team/empty-profile.png
-designation : VIP, Undergraduate Researcher
-description : An Undergraduate Junior Reseacher, studying Electrical Engineering, working on the OpenACC V&V Testsuite. 
-twitter     : https://twitter.com/aaronjarmusch?lang=en
-linkedIn    : https://www.linkedin.com/in/aaron-jarmusch-1174981b1/
+image : img/team/mayara-gimenes.jpg
+designation : 
+description :  
+website     : https://www.linkedin.com/in/mayara-gimenes-474a9594/
 featured: true
-weight: 3
+weight: 10
 grade: graduated
 ---

@@ -1,12 +1,10 @@
 ---
 name  : Eric Wright
-image : img/team/empty-profile.png
-designation : VIP, Undergraduate Researcher
-description : An Undergraduate Junior Reseacher, studying Electrical Engineering, working on the OpenACC V&V Testsuite. 
-twitter     : https://twitter.com/aaronjarmusch?lang=en
-linkedIn    : https://www.linkedin.com/in/aaron-jarmusch-1174981b1/
-draft: false
+image : img/team/eric-wright.jpg
+designation : Ph.D student
+description : NCAR project
+website: https://github.com/efwright
 featured: true
-weight: 1
+weight: 2
 grade: graduate
 ---
