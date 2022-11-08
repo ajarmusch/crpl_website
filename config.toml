@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-title = "CRPL Lab"
+title = "CRPL Site"
 author = "CRPL Web Team"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -63,9 +63,9 @@ enableRobotsTXT = true
     weight = 2
 
   [[menu.main]]
-    identifier = "members"
-    name = "Members"
-    url = "/members/"
+    identifier = "team"
+    name = "Team"
+    url = "/Team/"
     weight = 3
 
    [[menu.main]]
