@@ -1,12 +1,12 @@
 +++
-title = "NCI-DOE Drug response modeling"
+title = "Capabilities implementation and testing on normal and tumor tissue cells"
 date = "2020-05-26T11:04:20+02:00"
 stage = "current"
 image = "/img/partners/nih-logo.png"
 text = "Improving ECP-CANDLE’s drug response prediction models: Bioinformatics and Machine Learning"
 +++
 
-### Capabilities implementation and testing on normal and tumor tissue cells
+### NCI-DOE Drug response modeling
 
 **PI:** Sunita Chandrasekaran  
 
